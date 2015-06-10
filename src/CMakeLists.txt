@@ -118,4 +118,4 @@ ENDIF (BUILD_TOOLS)
 INCLUDE(Packaging)
 
 # opencv code
-ADD_SUBDIRECTORY(libmv_opencv)
+#ADD_SUBDIRECTORY(libmv_opencv)

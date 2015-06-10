@@ -19,7 +19,7 @@ with SSBA. If not, see <http://www.gnu.org/licenses/>.
 
 // Bundle adjustment application for datasets captured with the same camera (common intrinsics).
 
-#include "Math/v3d_linear.h"
+#include "../Math/v3d_linear.h"
 #include "Math/v3d_linear_utils.h"
 #include "Geometry/v3d_metricbundle.h"
 

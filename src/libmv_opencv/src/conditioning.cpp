@@ -52,7 +52,7 @@ preconditionerFromPoints( const Mat &_points,
 
     libmv::PreconditionerFromPoints( points, &Tr );
 
-    eigen2cv( Tr, _Tr );
+    eigen2cv( Tr, _Tr ); 
 }
 
 void
